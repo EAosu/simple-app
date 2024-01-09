@@ -1,0 +1,4 @@
+/my-nestjs-app/node_modules/
+/my-nextjs-app/node_modules/
+/my-nextjs-app/.next/
+/my-nestjs-app/dist/
